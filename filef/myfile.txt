@@ -1,0 +1,1 @@
+hello this is content fom my file.txt fetched through fread function in php
