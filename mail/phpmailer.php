@@ -18,11 +18,11 @@
 
   //Authentication
   $mail->Username = "sakshigoraniya13@gmail.com";
-  $mail->Password = "Sakshi@1310";
+  $mail->Password = "";
 
   //Set Params
   $mail->SetFrom("sakshigoraniya13@gmail.com");
-  $mail->AddAddress("divyeshjadeja13@gmail.com");
+  $mail->AddAddress("@gmail.com");
   $mail->Subject = "Message for Test";
   $mail->Body = "hello";
 
