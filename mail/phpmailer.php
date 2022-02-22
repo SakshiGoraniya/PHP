@@ -23,7 +23,7 @@
   //Set Params
   $mail->SetFrom("sakshigoraniya13@gmail.com");
   $mail->AddAddress("sakshigoraniya13@gmail.com");
-  $mail->AddAddress("divyeshjadeja13@gmail.com");
+  $mail->AddAddress("@gmail.com");
   $mail->Subject = "Message for Test";
   $mail->Body = "hello";
 
